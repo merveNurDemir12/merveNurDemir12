@@ -1,4 +1,4 @@
-### 🚀 Merhaba, Ben Merve Nur!
+### Merhaba, Ben Merve Nur!
 
 Ankara Üniversitesi'nde Matematik öğrencisi ve aynı zamanda Kreatif Öncü Kadınlar derneğinin Başkan Yardımcısıyım. Matematiğin soyut dünyasını yazılımın somut çıktılarıyla birleştirmeyi seviyorum.
 
