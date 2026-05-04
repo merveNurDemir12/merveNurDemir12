@@ -5,7 +5,7 @@ Ankara Üniversitesi'nde Matematik öğrencisi ve aynı zamanda Kreatif Öncü K
 ---
 
 ### 🛠 Nelerle Uğraşıyorum?
-*   Oyun Geliştirme: Unity ve C# kullanarak matematik tabanlı 2D mobil oyunlar geliştiriyorum.
+*   Oyun Geliştirme: Unity ve C# kullanarak matematik tabanlı 2D/3D mobil oyunlar geliştiriyorum.
 *   Akademik Çalışmalar: Topoloji, Diferansiyel Denklemler ve Ayrık Matematik konularında algoritmalar üretiyorum.
 *   Topluluk: Türkiye'deki kreatif endüstrilerde kadın istihdamını artırmak için projeler yönetiyorum.
 *   Tasarım: Projelerimin görsel süreçlerini Figma ve Canva ile yönetiyorum.
